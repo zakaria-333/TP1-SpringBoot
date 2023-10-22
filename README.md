@@ -2,7 +2,7 @@
 <img width="764" alt="image" src="https://github.com/zakaria-333/TP1-SpringBoot/assets/77533601/8dec569f-a0b7-4f8d-88aa-b4b88e7c10f9">;
 # ADD STUDENT
 <img width="864" alt="image" src="https://github.com/zakaria-333/TP1-SpringBoot/assets/77533601/7a52c068-f735-4d80-ae55-cf14cfe12a0e">;
-<img width="650" alt="image" src="https://github.com/zakaria-333/TP1-SpringBoot/assets/77533601/660d30bb-e44a-4a3a-8816-32e7dde68773">;
+![image](https://github.com/zakaria-333/TP1-SpringBoot/assets/77533601/1d0c2b6c-e658-4069-97e6-b8456f015b56);
 # GET ALL STUDENTS
 <img width="865" alt="image" src="https://github.com/zakaria-333/TP1-SpringBoot/assets/77533601/b9ef07f8-2b17-4255-b92c-754fd9338173">;
 # Get the total number of students
